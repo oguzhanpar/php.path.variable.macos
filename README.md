@@ -1,6 +1,6 @@
 # php.path.variable.macos
-
-`php -v` version control then returns zsh: command not found: php
+## version control then returns zsh: command not found: php
+`php -v` 
 
 ## Homebrew Path Variable Define Command
 `export PATH="/usr/local/opt/php/bin:$PATH"`
