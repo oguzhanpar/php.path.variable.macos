@@ -1,0 +1,1 @@
+# php.path.variable.macos
